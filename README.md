@@ -8,3 +8,4 @@ Here are the pics of the deployed pages
 ![alt](assets/images/contacts.png)
 ![alt](assets/images/portfolio1.png)
 ![alt](assets/images/portfolio2.png)
+![alt](assets/images/project2lst.png)
